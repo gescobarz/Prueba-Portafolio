@@ -69,6 +69,11 @@ i {
     color: #660066;
 }
 
+#about {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
 #experience {
     padding-top: 100px;
     padding-bottom: 100px;
