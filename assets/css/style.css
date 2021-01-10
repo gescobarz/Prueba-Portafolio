@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap');
+
+nav {
+    background-color: #660066;
+    font-family: Montserrat;
+}
+
+span {
+    font-size: 2em;
+    font-weight: 800;
+}
+
+header {
+    background-image: url('../img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding-top: 280px;
+    padding-bottom: 20px;
+    font-family: Montserrat;
+    font-weight: 800px;
+}
+
+p {
+    font-family: Montserrat;
+    line-height: 30px;
+    color: #373A3C;
+}
+
+h1 {
+    font-size: 6em;
+    font-weight: 800;
+}
+
+h2 {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 3em;
+    line-height: 50px;
+    color: #373A3C;
+}
+
+h3 {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 3em;
+    line-height: 50px;
+    color: #ffffff;
+}
+
+h4 {
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 50px;
+    color: #373A3C;
+}
+
+h5 {
+    font-family: Montserrat;
+    color: #373A3C;
+    font-weight: 800;
+}
+
+hr {
+    height: 2px;
+}
+
+i {
+    color: #660066;
+}
+
+#experience {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#work {
+    background-color: #660066;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#contact {
+    padding-top: 100px;
+}
+
+#footer {
+    background-color: #660066;
+    color: #ffffff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
